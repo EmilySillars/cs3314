@@ -1,2 +1,2 @@
-# cs3314
-Design and Implementation of Programming Languages Homework!
+# cs3113
+Intro to Game Programming Homework!
